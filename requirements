@@ -1,0 +1,5 @@
+github.com/gin-gonic/gin
+github.com/jinzhu/gorm
+golang.org/x/crypto/bcrypt
+github.com/dgrijalva/jwt-go
+github.com/satori/go.uuid

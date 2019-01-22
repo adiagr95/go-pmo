@@ -1,0 +1,11 @@
+*.pyc
+*~
+__pycache__
+pbenv
+db.sqlite3
+/logs
+*.log
+.DS_Store
+.vscode
+.idea
+/tmp
